@@ -62,7 +62,7 @@ function Dashboard({
                     onDeleteContent(id)
                   }
                 }
-                renderEditForm={ (content) => (
+                renderEditForm={(content) => (
                   <ContentForm
                     initialContent={content}
                     screenName={'Edit Content'}
