@@ -40,13 +40,22 @@ Increase online presence and followers with the assistance of a website for the 
 The client project has been split into two phases, with the development team focusing on delivering phase one.
  * Phase One: Increase online presence and followers with the assistance of a website for the company (elaborated in the problem statement above)
  * Phase Two: Generate revenue from online purchases/subscriptions of content
+ 
+## Planning
+
+Most project planning activities and work allocation was controlled in Trello which enabled all members in the team to have visibility of the most up to date project plans.
+
+https://trello.com/b/3b7A76gl/term-3-assignment-jitsmob
 
 ## Design Decisions
 
 Client has expressed interest on the following competitors websites which has influenced some of the design decisions:
 
-* RomWod
-* Yoga for BJJ
+* [RomWod](https://romwod.com/)
+* [Yoga for BJJ](https://www.yogaforbjj.net/)
+
+### User Journey
+
 
 ### Wireframes
 
