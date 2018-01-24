@@ -10,7 +10,7 @@
 
 ## About The Client
 
-JitsMob aims to educate the Brazilian Jiu Jitsu (BJJ) and Mixed Martial Arts (MMA) community through online content on topics such as: 
+JitsMob aims to educate the Brazilian Jiu Jitsu (BJJ) and Mixed Martial Arts (MMA) community through online video content on topics such as: 
  * Injury prevention 
  * Mobility 
 in order to maximise their Performance and give them something to complement what they do in training.
@@ -20,11 +20,11 @@ They currently has a social media presence on:
 * [YouTube](https://www.youtube.com/channel/UCe6FjCO70FkCIqaGkPEyXZQ)  (51 subscribers), and 
 * [Facebook](https://www.facebook.com/JitsMob-1854775828114449/) (389 followers). 
 
-Instagram has the largest amount of followers, however, the platform only allows 1 minute videos, and the client believes that this timeframe does not allow him enough time to communicate his message. Currently, there are links on his Instagram account to his YouTube channel, however the view count (or statistics) on YouTube show that this does not to entice his followers to want to view his content. As such, he's requested a digital product that will help redirect his followers on Instagram to a centralized platform that will allow the community to want to view his full content.
+Instagram has the largest amount of followers, however, the platform only allows 1 minute videos, and the client believes that this timeframe does not allow him enough time to communicate his message. Currently, there are links on his Instagram account to his YouTube channel, however the view count (or statistics) on YouTube show that this does not to entice his followers to want to view his content. As such, he's requested a digital product that will help entice his followers on Instagram to go on a centralized platform that will allow the community to want to view his full content.
 
 ## The Solution
 
-Increase online presence and followers with the assistance of a website for the company that:
+Increase online presence and followers with the assistance of a website for the company that has:
 * Clear and basic website that enables site visitors to find the content they're after quickly
 * Content Library – categories to give their users the ability to give advice on injury prevention, and show what exercises can be done to maximise performance, prevent injury, and complement what people do in class
 * Majority of the content will be videos
