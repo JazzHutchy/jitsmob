@@ -24,6 +24,11 @@ Instagram has the largest amount of followers, however, the platform only allows
 
 ## The Solution
 
+* Phase One of project is to be delivered by development team and expected to be launched for the client by end of January 2018
+* Phase Two - Generate revenue online (out of scope for this project) is out of scope for this project.
+
+### Phase One Solution:
+
 Increase online presence and followers with the assistance of a website for the company that has:
 * Clear and basic website that enables site visitors to find the content they're after quickly
 * Content Library – categories to give their users the ability to give advice on injury prevention, and show what exercises can be done to maximise performance, prevent injury, and complement what people do in class
@@ -55,7 +60,7 @@ Client has expressed interest on the following competitors websites which has in
 * [Yoga for BJJ](https://www.yogaforbjj.net/)
 
 ### User Journey
-![Admin Journey](https://github.com/JazzHutchy/jitsmob/UserJourney.jpg)
+![Admin Journey](/images/UserJourney.jpg)
 
 ### Wireframes
 
@@ -79,6 +84,8 @@ Client has expressed interest on the following competitors websites which has in
 
 [DB Designer](http://dbdesigner.net/designer/schema/138851)
 
+![Admin Journey](/images/ERD.png)
+
 ## Challenges
 
 * Dilemma of abiding by our clients needs and expectations, versus our desire to make our portfolio look good for potential employers.
@@ -91,6 +98,12 @@ Client has expressed interest on the following competitors websites which has in
 ## Future Plans
 * Phase 2: Adding the merchandising side of the site when/if Tao is ready to go ahead
 * Guided and customisable workout programme
+
+# Development of v1.5
+
+[JitsMob-v-1-5](http://jitsmob-1-5.netlify.com)
+
+[Github](https://github.com/igaboc/jitsmob_v1.5) - Hosted on igaboc github
 
 
 
