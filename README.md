@@ -51,11 +51,11 @@ https://trello.com/b/3b7A76gl/term-3-assignment-jitsmob
 
 Client has expressed interest on the following competitors websites which has influenced some of the design decisions:
 
-* ![RomWod](https://romwod.com/)
-* ![Yoga for BJJ](https://www.yogaforbjj.net/)
+* [RomWod](https://romwod.com/)
+* [Yoga for BJJ](https://www.yogaforbjj.net/)
 
 ### User Journey
-
+![Admin Journey](https://github.com/JazzHutchy/jitsmob/UserJourney.jpg)
 
 ### Wireframes
 
