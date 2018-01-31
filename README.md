@@ -1,5 +1,24 @@
 # [JitsMob](http://jitsmob.netlify.com/)
 
+## Table of Contents
+
+  * [Project Members and Allocation on Non-Coding Roles](#project-members-and-allocation-on-non-coding-roles-)
+  * [About The Client](#about-the-client)
+  * [The Problem](#the-problem)
+  * [The Solution](#the-solution)
+  * [Competitor Analysis](#competitor-analysis)
+  * [Planning Tool](#planning-tool)
+    + [User Journey (Admin)](#user-journey--admin-)
+    + [User Stories](#user-stories)
+  * [Design Decisions](#design-decisions)
+    + [Wireframes](#wireframes)
+    + [ERD](#erd)
+  * [Challenges](#challenges)
+  * [Lessons Learnt](#lessons-learnt)
+  * [Presentation Slides](#presentation-slides)
+  * [Future Plans](#future-plans)
+  * [Client Feedback](#client-feedback)
+
 ## Project Members and Allocation on Non-Coding Roles:
 * Tao Hulin (Client)
 * Clayton Wong (Project Manager)
