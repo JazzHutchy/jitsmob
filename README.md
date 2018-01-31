@@ -51,7 +51,7 @@ Create a full-serviced platform that will enable the client to host full video c
 
 This has been split into two phases:
 
-1. Focus on increasing awareness within the community by channeling social media users into a centralised platform which will enable site visitors to search and view the clients videos via predetermined filter categories, and the ability to subscribe and share content onto other social media platforms.
+1. Focus on increasing brand awareness within the community by channeling social media users into a centralised platform which will enable site visitors to search and view the clients videos via predetermined filter categories, and the ability to subscribe and share content onto other social media platforms.
 2. Create customisable and preset programmes to meet users goals, and online store for company merchandise with secure online payment, preferably on a mobile device (will be developed later in the year)
 
 ### Phase One Solution:
