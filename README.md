@@ -1,6 +1,6 @@
 # [JitsMob](http://jitsmob.netlify.com/)
 
-## Project Members and Non-Coding Roles:
+## Project Members and Allocation on Non-Coding Roles:
 * Tao Hulin (Client)
 * Clayton Wong (Project Manager)
 * Daniel Huong (Client Services Manager)
@@ -13,23 +13,31 @@
 JitsMob aims to educate the Brazilian Jiu Jitsu (BJJ) and Mixed Martial Arts (MMA) community through online video content on topics such as: 
  * Injury prevention 
  * Mobility 
-in order to maximise their Performance and give them something to complement what they do in training.
+
+in order to maximise their performance and give them something to complement what they do in training.
 
 They currently has a social media presence on:
 * Instagram (@JitsMob) (18.8k followers), 
 * [YouTube](https://www.youtube.com/channel/UCe6FjCO70FkCIqaGkPEyXZQ)  (51 subscribers), and 
 * [Facebook](https://www.facebook.com/JitsMob-1854775828114449/) (389 followers). 
 
-Instagram has the largest amount of followers, however, the platform only allows 1 minute videos, and the client believes that this timeframe does not allow him enough time to communicate his message. Currently, there are links on his Instagram account to his YouTube channel, however the view count (or statistics) on YouTube show that this does not to entice his followers to want to view his content. As such, he's requested a digital product that will help entice his followers on Instagram to go on a centralized platform that will allow the community to want to view his full content.
+Target Market: Jiu Jitsu and MMA atheletes
+
+## The Problem
+Instagram has the largest amount of followers, however, the platform only enables one minute videos, and the client believes that this timeframe does not allow him enough time to communicate his message. Currently, there are links on his Instagram account to his YouTube channel, however the stats reflect that this link does not effectively channel users onto this platform to enable them to view the full content. Additionally, when sharing youtube links onto facebook, it does not render youtube images onto facebook. As such, he's requested a digital product that will help redirect his followers onto on to a centralized platform, which will enable them to view and create their own programs that will help reach them to maximise their performance in MMA and Jiu Jitsu.
 
 ## The Solution
 
-* Phase One of project is to be delivered by development team and expected to be launched for the client by end of January 2018
-* Phase Two - Generate revenue online (out of scope for this project) is out of scope for this project.
+Create a full-serviced platform that will enable the client to host full video content, with customisable and preset programmes to meet users goals, sharing capability, and online store for company merchandise with secure online payment.
+
+This has been split into two phases:
+
+1. Focus on increasing awareness within the community by channeling social media users into a centralised platform which will enable site visitors to search and view the clients videos via predetermined filter categories, and the ability to subscribe and share content onto other social media platforms.
+2. Create customisable and preset programmes to meet users goals, and online store for company merchandise with secure online payment, preferably on a mobile device (will be developed later in the year)
 
 ### Phase One Solution:
 
-Increase online presence and followers with the assistance of a website for the company that has:
+Increase online presence and followers with the assistance of a website for the company that has a:
 * Clear and basic website that enables site visitors to find the content they're after quickly
 * Content Library – categories to give their users the ability to give advice on injury prevention, and show what exercises can be done to maximise performance, prevent injury, and complement what people do in class
 * Majority of the content will be videos
@@ -38,33 +46,26 @@ Increase online presence and followers with the assistance of a website for the 
 * Site that is easy to maintain, use and add content e.g. administration and user friendly of uploading content onto website
 * To include information about him ­About Me Page
 * Users to be able to subscribe to content with notifications
-* Track website traffic ­Google analytics
+* Track website traffic using ­Google analytics
 * Contact Us Page
 
+## Competitor Analysis
 
-The client project has been split into two phases, with the development team focusing on delivering phase one.
- * Phase One: Increase online presence and followers with the assistance of a website for the company (elaborated in the problem statement above)
- * Phase Two: Generate revenue from online purchases/subscriptions of content
- 
-## Planning
+| Competitor    | Description   | Features      |
+| ------------- | -------------         | ------------- |
+| [Romwod](https://romwod.com/)        | Same features as JitsMob however focuses on KungFu techniques to assist user. Target market are atheletes in general          | Online predetermined programmes, Video Content, Online Store, acessible on web, tablet, and mobile  |
+| [Yoga For BJJ](https://shop.yogaforbjj.net/)  | Main competitor to JitsMob. Uses yoga techniques to increase users longevity and joy on the mat. Target Market: Jiu Jitsu atheletes          | Online predetermined programmes accessible on web, online store  |
+
+JitsMob point of difference: video content / exercises focused in improving mobility for MMA and Jiu Jitsu athletes
+
+## Planning Tool
 
 Most project planning activities and work allocation was controlled in Trello which enabled all members in the team to have visibility of the most up to date project plans.
 
 https://trello.com/b/3b7A76gl/term-3-assignment-jitsmob
 
-## Design Decisions
-
-Client has expressed interest on the following competitors websites which has influenced some of the design decisions:
-
-* [RomWod](https://romwod.com/)
-* [Yoga for BJJ](https://www.yogaforbjj.net/)
-
-### User Journey
+### User Journey (Admin)
 ![Admin Journey](/images/UserJourney.jpg)
-
-### Wireframes
-
-[Figma](https://www.figma.com/file/Ru0Zjt2kZeXl3uAH3XKJEW08/JitsMob?node-id=337%3A30)
 
 ### User Stories
 
@@ -80,6 +81,27 @@ Client has expressed interest on the following competitors websites which has in
 * In order to notify my subscribers of any new information, as admin, I would like the option to send email notifications to them
 * As admin, I would like to have a centralised location to upload content across multiple platforms, in order to save time having to upload to FB, IG, and Youtube
 
+## Design Decisions
+
+Client has expressed interest on the following competitors websites which may have influenced some of the design decisions:
+
+* [RomWod](https://romwod.com/)
+* [Yoga for BJJ](https://www.yogaforbjj.net/)
+
+
+### Wireframes
+
+[All Wireframes Here](https://www.figma.com/file/Ru0Zjt2kZeXl3uAH3XKJEW08/JitsMob?node-id=337%3A30)
+
+Creating Lo Fidelity Wireframes enabled us to test the user stories against them to ensure we captured all the wireframes we needed in order to satisfy the clients requirements and meet the MVP
+
+![Low Fidelity Wireframes](/images/lo-fid-wireframe.png)
+
+
+This then enable us to create high fidelity wireframes which was then used by us to build the website on. This was also used to foresee the complete design to check usability and for errors in the design.
+
+![High Fidelity Wireframes](/images/hi-fed-wireframe.png)
+
 ### ERD
 
 [DB Designer](http://dbdesigner.net/designer/schema/138851)
@@ -90,14 +112,27 @@ Client has expressed interest on the following competitors websites which has in
 
 * Dilemma of abiding by our clients needs and expectations, versus our desire to make our portfolio look good for potential employers.
 * Getting Social Media Optimisation requirements the way JitsMob wanted it (dynamic meta tags for Facebook sharing)
+* Short time frame (three week project) resulted in making quick short cuts on the design decisions
+
+## Lessons Learnt
+
+* Interview the end users (MMA and BJJ atheletes) to get an understanding of their pain points in researching for techniques to improve performance, and how they implement their research into their training. Due to the short time frame of this project, we only worked with the client, and therefore initially looked at the project from an admin/client point of view, which we then reviewed and changed the design one week into the project.
+* Use clients actual video content that will be published, instead of dummy videos from their youtube channel, to get a better understanding of the categories required in order to build the site filters on.
 
 ## Presentation Slides
 
 (https://docs.google.com/presentation/d/1NYIdR7kzkkqm86oExB6yZZhk5IbCF1G-ILJ77mMt80M/edit?ts=5a680004#slide=id.g2f2777c8ee_0_20)
 
 ## Future Plans
-* Phase 2: Adding the merchandising side of the site when/if Tao is ready to go ahead
+* Add the online merchandising on the site when the client is ready to go ahead
 * Guided and customisable workout programme
+
+## Client Feedback
+Generally happy with the prototype with some requests on changing the color scheme.
+
+"Very happy with the features of the website. I like the menu tab and how it opens. As well as the layout and the build your own mobility program by clicking of body part titles."
+
+"Overall experience was very good. Great communication throughout."
 
 # Development of v1.5
 
